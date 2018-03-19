@@ -1,0 +1,17 @@
+.item-group {
+  width:100%;
+  display:inline-block;
+}
+
+.the-item {
+  float:left;
+  width: 175px;
+  height: 220px;
+  margin: 10px;
+  border:1px solid gray;
+}
+
+.the-cart {
+  display:block;
+
+}
