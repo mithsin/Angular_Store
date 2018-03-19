@@ -9,11 +9,6 @@
 		$scope.products = productsData;
 		$scope.cart = [];
 	  $scope.total = 0;
-	  /*
-		if ($cookieStore.get('cart') !== null) {
-		 		$scope.cart =  $cookieStore.get('cart');
-		}
-		*/
 
 		if(!angular.isUndefined($cookies.get('total'))){
 		  $scope.total = parseFloat($cookies.get('total'));
