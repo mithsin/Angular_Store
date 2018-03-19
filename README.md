@@ -2,4 +2,4 @@
 
 Tech used: AngularJS, CSS, HTML, JSON.
 
-<img src="./Angular.gif" width="200" height="150" />
+<img src="./Angular.gif" width="800" height="600" />
